@@ -1,8 +1,0 @@
-
-/* Add your custom styles here */
-.sprite {
-    width: 100px;
-    height: 100px;
-    background-image: url('sprite.png'); /* Replace 'sprite.png' with your sprite image path */
-    background-position: 0 0; /* Adjust the background position as needed */
-}
